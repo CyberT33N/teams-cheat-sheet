@@ -7,7 +7,7 @@
 
 # Transkribieren
 
-
+<details><summary>Click to expand..</summary>
 
 
 ## Aktivieren
@@ -179,6 +179,9 @@ Möchtest du ein Script, um Transkripte automatisch zu sichern?
 </details>
 
 
+
+  
+</details>
 
 
 
