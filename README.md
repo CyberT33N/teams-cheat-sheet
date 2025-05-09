@@ -1,11 +1,13 @@
 # Teams Cheat Sheet
 
 
-- https://www.microsoft365.com/launch/stream?auth=2
-
 
 
 # Transkribieren
+
+- https://www.microsoft365.com/launch/stream?auth=2
+
+
 
 <details><summary>Click to expand..</summary>
 
